@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "realm": "Hell",
+        "faction": "Night Sentinels Betrayers",
+        "threat_level": 10
+    },
+    {
+        "id" : 2,
+        "realm": "UAC Laboratories",
+        "faction": "Hell's Cyber Demons",
+        "threat_level": 8
+    },
+    {
+        "id" : 3,        
+        "realm": "Hell",
+        "faction": "Demonic Sorcerers",
+        "threat_level": 9
+    },
+    {
+        "id" : 4,
+        "realm": "Hell",
+        "faction": "Cyberdemon Legion",
+        "threat_level": 10
+    },
+    {
+        "id" : 5,
+        "realm": "Hell",
+        "faction": "Serpent Demons",
+        "threat_level": 7
+    },
+    {
+        "id" : 6,        
+        "realm": "UAC Laboratories",
+        "faction": "Cybernetic Constructs",
+        "threat_level": 6
+    },
+    {
+        "id" : 7,
+        "realm": "Hell",
+        "faction": "UAC Experiments",
+        "threat_level": 7
+    },
+    {
+        "id" : 8,
+        "realm": "Hell",
+        "faction": "Lost Soul Masters",
+        "threat_level": 8
+    },
+    {
+        "id" : 9,
+        "realm": "Hell",
+        "faction": "Aerial Demons",
+        "threat_level": 5
+    },
+    {
+        "id" : 10,
+        "realm": "Hell",
+        "faction": "Shadow Stalkers",
+        "threat_level": 7
+    }
+]
