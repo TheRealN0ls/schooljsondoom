@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Marauder",
-      "description": "A highly agile demon with a shield that blocks frontal attacks.",
+      "description": "A former Night Sentinel corrupted by Hell’s influence, the Marauder is a relentless warrior wielding an Argent Battle Axe and an impenetrable energy shield. Once loyal to the Doom Slayer, it now opposes him with inhuman speed and tactical precision. Its ability to summon spectral hounds and counter nearly all frontal assaults makes it one of the most formidable foes in Hell’s legions. The only window of vulnerability comes when its eyes flash green, signaling an opportunity for a well-timed attack.",
       "max_health": 500,
       "is_active": true,
       "birth_date": "1724-05-14",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "Doom Hunter",
-      "description": "A cybernetic demon with a shield and a hovering sled.",
+      "description": "Originally a demonic entity captured and modified by the UAC, the Doom Hunter is a terrifying fusion of Hell’s creatures and advanced cybernetics. Mounted on a hovering sled equipped with twin cannons, missile launchers, and an energy shield, this relentless predator was engineered specifically to counter the Doom Slayer. Its armor-plated body provides superior protection, but once its sled is destroyed, the demon becomes more vulnerable, switching to aggressive melee attacks.",
       "max_health": 7500,
       "is_active": true,
       "birth_date": "1874-09-30",
@@ -32,7 +32,7 @@
     {
       "id": 3,
       "name": "Archvile",
-      "description": "Summons demons and casts fire attacks.",
+      "description": "One of Hell’s most powerful sorcerers, the Archvile is a high-ranking demon with pyrokinetic abilities, capable of summoning waves of reinforcements in the midst of battle. It engulfs its surroundings in flame and can create towering firewalls to control the battlefield, forcing enemies into vulnerable positions. Archviles are rare but extremely dangerous, as their summoning powers can quickly turn a fight against the Doom Slayer’s favor if not dealt with swiftly.",
       "max_health": 6000,
       "is_active": false,
       "birth_date": "1524-11-21",
@@ -47,7 +47,7 @@
     {
       "id": 4,
       "name": "Tyrant",
-      "description": "A towering demon resembling a Cyberdemon with heavy firepower.",
+      "description": "A massive, heavily armored demon resembling the legendary Cyberdemon, the Tyrant is a living war machine built to annihilate anything in its path. Armed with an enormous rocket launcher and a nearly indestructible hide, the Tyrant is slow but incredibly powerful, unleashing devastating missile barrages that can obliterate entire squads of enemies. Unlike other large demons, it does not rely on teleportation or summoning allies—its sheer strength and firepower are enough to dominate the battlefield.",
       "max_health": 10000,
       "is_active": true,
       "birth_date": "1424-07-19",
@@ -62,7 +62,7 @@
     {
       "id": 5,
       "name": "Whiplash",
-      "description": "A fast-moving, slithering demon that is hard to hit.",
+      "description": "A terrifying serpent-like demon with incredible speed and agility, the Whiplash is the only known demon in Hell that lacks a skeletal structure, allowing it to contort its body and slither through tight spaces. Its attacks are fast and erratic, using razor-sharp claws and energy whips to strike before darting away. Its unpredictability makes it a nightmare to fight, but its light frame leaves it vulnerable to freezing effects and high-impact weapons.",
       "max_health": 2000,
       "is_active": true,
       "birth_date": "1824-02-10",
@@ -77,7 +77,7 @@
     {
       "id": 6,
       "name": "Carcass",
-      "description": "Deploys energy shields that block your shots.",
+      "description": "A grotesque fusion of human remains and cybernetic enhancements, the Carcass is a failed UAC experiment designed to reinforce demonic ranks with mechanical upgrades. While physically weak, it compensates by generating instant energy shields to block incoming attacks and disrupt enemy advances. These shields can create bottlenecks in combat, forcing opponents to reposition or risk being trapped. Though not a frontline fighter, the Carcass excels at supporting larger demons by providing strategic cover and impeding the Slayer’s mobility.",
       "max_health": 1200,
       "is_active": false,
       "birth_date": "1974-12-01",
@@ -92,7 +92,7 @@
     {
       "id": 7,
       "name": "Revenant",
-      "description": "A jetpack-wearing demon with twin rocket launchers.",
+      "description": "Once human soldiers, Revenants are reanimated corpses outfitted with Hell-forged cybernetic enhancements, including a jetpack and twin shoulder-mounted rocket launchers. These skeletal abominations are agile and aggressive, using aerial mobility to rain down explosives from above. Their advanced tracking systems allow them to pursue targets relentlessly, making them a dangerous threat if left unchecked. Though individually not the toughest demons, their ability to quickly reposition and strike from unexpected angles makes them a priority target in battle.",
       "max_health": 2000,
       "is_active": true,
       "birth_date": "1774-06-22",
@@ -107,7 +107,7 @@
     {
       "id": 8,
       "name": "Pain Elemental",
-      "description": "A floating demon that spawns Lost Souls.",
+      "description": "A monstrous, floating orb of flesh with a perpetually grinning face, the Pain Elemental is a living factory of destruction, constantly spawning explosive Lost Souls to harass enemies. Unlike other demons, it rarely engages in direct combat, instead preferring to hover menacingly and overwhelm opponents with relentless waves of suicidal minions. Though its massive body makes it an easy target, its durability and ability to summon reinforcements make it a persistent threat, especially when paired with other aerial demons.",
       "max_health": 5000,
       "is_active": false,
       "birth_date": "1574-03-15",
@@ -122,7 +122,7 @@
     {
       "id": 9,
       "name": "Cacodemon",
-      "description": "A floating, one-eyed demon with a powerful bite attack.",
+      "description": "One of the most iconic demons in Hell’s legions, the Cacodemon is a massive, grotesque, floating head with a single eye and a cavernous mouth filled with razor-sharp teeth. Though it moves slowly, it compensates with powerful bite attacks and deadly energy projectiles. These creatures have an insatiable hunger and will attempt to devour anything in their path. Despite their terrifying appearance, their natural sluggishness makes them vulnerable to precise attacks, particularly aimed at their gaping mouths.",
       "max_health": 2500,
       "is_active": true,
       "birth_date": "1674-08-09",
@@ -137,7 +137,7 @@
     {
       "id": 10,
       "name": "Prowler",
-      "description": "A teleporting demon that ambushes the player.",
+      "description": "A shadowy and elusive demon, the Prowler is a lethal ambush predator that relies on its teleportation abilities to strike from unexpected angles. Unlike most demons, it prioritizes hit-and-run tactics, appearing suddenly to deliver devastating claw attacks before vanishing into the darkness. Prowlers operate in packs, using their mobility to disorient and isolate their targets. Their unpredictable movement patterns make them challenging to pin down, requiring quick reflexes and area-of-effect weapons to eliminate efficiently.",
       "max_health": 800,
       "is_active": true,
       "birth_date": "1844-11-05",
@@ -149,5 +149,4 @@
         "id": 10
       }
     }
-  ]
-  
+]
